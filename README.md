@@ -98,6 +98,9 @@
   <a href="https://github.com/FabianMoraeles/interactiveH">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=FabianMoraeles&repo=interactiveH&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
+  <a href="https://github.com/FabianMoraeles/Diorama-Raytracing">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=FabianMoraeles&repo=Diorama-Raytracing&theme=tokyonight&hide_border=true&border_radius=12" />
+  </a>
 </p>
 
 <details>
